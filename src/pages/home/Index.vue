@@ -1,7 +1,6 @@
 <template>
   <div>
     <home-header></home-header>
-    <div>首页</div>
   </div>
 </template>
 
